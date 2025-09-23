@@ -41,8 +41,8 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/USERNAME/)](https://www.linkedin.com/in/kadek-aditya-ananta-wisnu-wardana-b626931b9/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white)][(https://USERNAME.github.io/)](https://github.com/AdityaAnanta123)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/kadek-aditya-ananta-wisnu-wardana-b626931b9/)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white)][(https://github.com/AdityaAnanta123)]
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anantaaditya833@gmail.com)
 
 ---
