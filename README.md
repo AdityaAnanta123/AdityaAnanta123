@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Adip  
+# Hi there 👋 I'm Adiya Ananta
 
 💡 I’m a **Data Enthusiast** currently exploring the world of **Data Analytics, Data Science, Data Engineering, and AI Engineering**.  
 🎯 My goal is to grow into a professional who can turn raw data into meaningful insights and impactful solutions.  
@@ -35,15 +35,15 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaAnanta123&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAnanta123&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white)](https://USERNAME.github.io/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yourname@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/USERNAME/)](https://www.linkedin.com/in/kadek-aditya-ananta-wisnu-wardana-b626931b9/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white)][(https://USERNAME.github.io/)](https://github.com/AdityaAnanta123)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anantaaditya833@gmail.com)
 
 ---
 
