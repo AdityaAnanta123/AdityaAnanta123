@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Adiya Ananta
+# Hi there 👋 I'm Aditya Ananta
 
 💡 I’m a **Data Enthusiast** currently exploring the world of **Data Analytics, Data Science, Data Engineering, and AI Engineering**.  
 🎯 My goal is to grow into a professional who can turn raw data into meaningful insights and impactful solutions.  
