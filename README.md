@@ -29,7 +29,7 @@
 🔹 [Mobile Sales Analytics Dashboard](https://github.com/AdityaAnanta123/Mobile_Sales_Analytics_Using_Python_And_PowerBI) → **ETL + Power BI dashboard for sales insights**  
 🔹 [Machine Learning For Retail](https://github.com/AdityaAnanta123/Project-Machine-Learning-for-Retail-with-R-Product-Packaging) → **Association Rule Machine Learning for Retail Product using R**  
 🔹 [Rice Image Classification](https://github.com/AdityaAnanta123/Classification-Rice-Detection-using-MobileNetV2) → **Deep Learning project for rice image classification using MobileNetV2**    
-🔹 [Screw Defect Detection](https://github.com/USERNAME/screw-defect-detection) → **Autoencoder prototype for defect detection**  
+🔹 [Mental Health Analysis using Machine Learning](https://github.com/AdityaAnanta123/Mental-Health-Analysis-using-Machine-Learning) → **Mental Health Analysis using 2 Ensemble Learning Algorithm**  
 
 ---
 
