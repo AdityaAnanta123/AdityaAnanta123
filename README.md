@@ -28,7 +28,7 @@
 ## 📂 Featured Projects
 🔹 [Mobile Sales Analytics Dashboard](https://github.com/AdityaAnanta123/Mobile_Sales_Analytics_Using_Python_And_PowerBI) → **ETL + Power BI dashboard for sales insights**  
 🔹 [Machine Learning For Retail](https://github.com/AdityaAnanta123/Project-Machine-Learning-for-Retail-with-R-Product-Packaging) → **Association Rule Machine Learning for Retail Product using R**  
-🔹 [Rice Image Classification](https://github.com/USERNAME/rice-image-classification) → **Deep Learning project for rice image classification**    
+🔹 [Rice Image Classification]([https://github.com/USERNAME/rice-image-classification](https://github.com/AdityaAnanta123/Classification-Rice-Detection-using-MobileNetV2)) → **Deep Learning project for rice image classification using MobileNetV2**    
 🔹 [Screw Defect Detection](https://github.com/USERNAME/screw-defect-detection) → **Autoencoder prototype for defect detection**  
 
 ---
